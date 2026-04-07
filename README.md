@@ -1,8 +1,26 @@
 [Download Dataset](hospital_patient_dataset.csv.xlsx)
 
-Got it — you want this to represent a **combined Excel + Power BI project**, not just Power BI. Here’s a cleaner, more professional and “GitHub-ready” version that reflects both tools and sounds more cohesive and human:
+-------
 
----
+TABLE OF CONTENT
+
+ [OVERVIEW](overview)  
+ 
+[OBJECTIVES](#objectives)  
+
+[TOOLS AND SKILLS USED](#tools-and-skills-used)  
+
+[KEY FEATURES](#key-features)  
+
+[KEY INSIGHTS](#key-insights)  
+
+[LEARNING PROCESS](#learning-process)  
+
+[CONCLUSION](conclusion)  
+
+[DASHBOARD PREVIEW](dashboard-preview)
+
+-----
 
 # GENERAL HOSPITAL PERFORMANCE ANALYSIS
 
