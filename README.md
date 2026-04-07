@@ -1,12 +1,18 @@
 [Download Dataset](hospital_patient_dataset.csv.xlsx)
 
-# 🏥 General Hospital Performance Dashboard (Power BI)
+Got it — you want this to represent a **combined Excel + Power BI project**, not just Power BI. Here’s a cleaner, more professional and “GitHub-ready” version that reflects both tools and sounds more cohesive and human:
+
+---
+
+# 🏥 General Hospital Performance Analysis Dashboard (Excel + Power BI)
 
 ## 📌 Overview
 
-This project focuses on analyzing hospital patient data to uncover key trends in patient distribution, treatment cost, and prescription practices.
+This project analyzes hospital patient data using both **Excel and Power BI** to uncover key insights around patient distribution, treatment patterns, and prescription practices.
 
-The goal was to move beyond raw data and build an **interactive dashboard** that provides clear, actionable insights for better decision-making.
+The workflow began in **Excel for data cleaning and preliminary analysis**, and was extended into **Power BI for interactive dashboard development and deeper visualization**.
+
+The goal was to transform raw hospital data into a clear, insight-driven dashboard that supports better healthcare decision-making.
 
 ---
 
@@ -14,24 +20,45 @@ The goal was to move beyond raw data and build an **interactive dashboard** that
 
 * Understand patient distribution across different diagnoses
 * Analyze trends in patient visits over time
-* Evaluate treatment costs
+* Evaluate treatment costs and patterns
 * Assess antibiotic usage and prescription accuracy
-* Identify key patterns that could support healthcare decisions
+* Identify key healthcare trends for decision support
 
 ---
 
 ## 🛠 Tools & Skills Used
 
-* **Power BI** (Dashboard development & visualization)
-* **DAX (Data Analysis Expressions)** for calculated measures
-* **Data Cleaning & Transformation**
-* **Data Visualization & Storytelling**
+* **Microsoft Excel**
+
+  * Data cleaning and preprocessing
+  * Basic analysis and validation checks
+  * Initial exploratory insights
+
+* **Power BI**
+
+  * Interactive dashboard design
+  * DAX measures and calculated columns
+  * Advanced data visualization
+
+* **General Skills**
+
+  * Data cleaning & transformation
+  * Data analysis & storytelling
+  * Dashboard design & UX thinking
 
 ---
 
-## 📊 Key Features of the Dashboard
+## 📊 Key Features
 
-* **KPI Cards** showing:
+### 📈 Excel Analysis
+
+* Data cleaning and validation checks
+* Exploratory analysis of patient records
+* Early insights into diagnosis patterns and treatment costs
+
+### 📊 Power BI Dashboard
+
+* **KPI Cards**
 
   * Total Patients
   * Antibiotic Usage (%)
@@ -39,57 +66,58 @@ The goal was to move beyond raw data and build an **interactive dashboard** that
 
 * **Monthly Trend Analysis**
 
-  * Tracks how patient visits change over time
+  * Tracks patient visit patterns over time
 
 * **Diagnosis Breakdown**
 
-  * Identifies the most common medical conditions
+  * Highlights most common conditions
 
 * **Outcome Analysis**
 
-  * Visualizes patient outcomes (Recovered, Admitted, etc.)
+  * Shows recovery, admission, and other outcomes
 
-* **Validation Check**
+* **Prescription Validation**
 
-  * Evaluates prescription accuracy
+  * Checks correctness of antibiotic prescriptions
 
 * **Interactive Filters (Slicers)**
 
-  * Filter data by Gender, Age Group, and Diagnosis
+  * Gender, Age Group, Diagnosis
 
 ---
 
 ## 🔍 Key Insights
 
-* Patient visits peak in **April, August, and November**, suggesting possible seasonal patterns
-* **Diabetes and Pneumonia** are the most common diagnoses
-* Antibiotic usage stands at **41%**, aligning with infection-related cases
-* A relatively low error rate (**10.7%**) indicates strong diagnostic accuracy
+* Patient visits peak in **April, August, and November**, suggesting possible seasonal trends
+* **Diabetes and Pneumonia** are the most frequent diagnoses
+* Antibiotic usage rate is **41%**, mainly linked to infection-related cases
+* Prescription validation shows a relatively low error rate (**10.7%**), indicating strong diagnostic consistency
 
 ---
 
 ## 🧠 What I Learned
 
-Working on this project helped me understand:
-
-* How to design dashboards that are not just visual, but **insight-driven**
-* The importance of **clean layout and user experience** in data presentation
-* How to use **DAX measures** to create dynamic and interactive reports
-* How to communicate findings clearly through **data storytelling**
+* How to combine **Excel and Power BI in a real analytics workflow**
+* The importance of **clean data before visualization**
+* How DAX can enhance analytical depth in dashboards
+* How to present data in a way that tells a **clear, structured story**
+* How Excel and Power BI complement each other in real-world analysis
 
 ---
 
 ## 🚀 Conclusion
 
-This dashboard demonstrates how healthcare data can be transformed into meaningful insights through effective visualization.
+This project demonstrates how healthcare data can be transformed into meaningful insights using a combination of **Excel for preprocessing** and **Power BI for visualization**.
 
-It highlights the importance of combining **technical skills** with **clear storytelling** to support data-driven decisions.
+It highlights the importance of combining technical analysis with storytelling to support better, data-driven healthcare decisions.
+
 
 ---
 
 ## 📸 Dashboard Preview
 
 ![Dashboard Preview](Screenshot.png.png)
+
 
 ---
 
