@@ -119,7 +119,7 @@ It highlights the importance of combining technical analysis with storytelling t
 
 ------
 
-![Healthset Excel](./Healthset_Excel.png)
+![Excel Dashboard](ExcelBoard.png)
 
 ---
 
