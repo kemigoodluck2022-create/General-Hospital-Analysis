@@ -1,5 +1,8 @@
 [Download Dataset](hospital_patient_dataset.csv.xlsx)
 
+
+# GENERAL HOSPITAL PERFORMANCE ANALYSIS
+
 -------
 
 TABLE OF CONTENT
@@ -22,7 +25,6 @@ TABLE OF CONTENT
 
 -----
 
-# GENERAL HOSPITAL PERFORMANCE ANALYSIS
 
 ## 📌 OVERVIEW
 This project analyzes hospital patient data using both **Excel and Power BI** to uncover key insights around patient distribution, treatment patterns, and prescription practices.
