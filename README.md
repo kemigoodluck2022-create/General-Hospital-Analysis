@@ -4,10 +4,9 @@ Got it — you want this to represent a **combined Excel + Power BI project**, n
 
 ---
 
-# 🏥 General Hospital Performance Analysis Dashboard (Excel + Power BI)
+# GENERAL HOSPITAL PERFORMANCE ANALYSIS
 
-## 📌 Overview
-
+## 📌 OVERVIEW
 This project analyzes hospital patient data using both **Excel and Power BI** to uncover key insights around patient distribution, treatment patterns, and prescription practices.
 
 The workflow began in **Excel for data cleaning and preliminary analysis**, and was extended into **Power BI for interactive dashboard development and deeper visualization**.
@@ -16,7 +15,7 @@ The goal was to transform raw hospital data into a clear, insight-driven dashboa
 
 ---
 
-## 🎯 Objectives
+## OBJECTIVES
 
 * Understand patient distribution across different diagnoses
 * Analyze trends in patient visits over time
@@ -26,7 +25,7 @@ The goal was to transform raw hospital data into a clear, insight-driven dashboa
 
 ---
 
-## 🛠 Tools & Skills Used
+## TOOLS AND SKILLS USED
 
 * **Microsoft Excel**
 
@@ -48,15 +47,15 @@ The goal was to transform raw hospital data into a clear, insight-driven dashboa
 
 ---
 
-## 📊 Key Features
+## KEY FEATURES
 
-### 📈 Excel Analysis
+###  Excel Analysis
 
 * Data cleaning and validation checks
 * Exploratory analysis of patient records
 * Early insights into diagnosis patterns and treatment costs
 
-### 📊 Power BI Dashboard
+###  Power BI Dashboard
 
 * **KPI Cards**
 
@@ -86,16 +85,16 @@ The goal was to transform raw hospital data into a clear, insight-driven dashboa
 
 ---
 
-## 🔍 Key Insights
+## KEY INSIGHTS
 
-* Patient visits peak in **April, August, and November**, suggesting possible seasonal trends
+* Patient visits peak in **April, August, and November**, suggesting possibility of seasonal trends
 * **Diabetes and Pneumonia** are the most frequent diagnoses
 * Antibiotic usage rate is **41%**, mainly linked to infection-related cases
 * Prescription validation shows a relatively low error rate (**10.7%**), indicating strong diagnostic consistency
 
 ---
 
-## 🧠 What I Learned
+##  LEARNING PROCESS
 
 * How to combine **Excel and Power BI in a real analytics workflow**
 * The importance of **clean data before visualization**
@@ -105,7 +104,7 @@ The goal was to transform raw hospital data into a clear, insight-driven dashboa
 
 ---
 
-## 🚀 Conclusion
+##  CONCLUSION
 
 This project demonstrates how healthcare data can be transformed into meaningful insights using a combination of **Excel for preprocessing** and **Power BI for visualization**.
 
@@ -114,10 +113,13 @@ It highlights the importance of combining technical analysis with storytelling t
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 DASHBOARD PREVIEW
 
 ![Dashboard Preview](Screenshot.png.png)
 
+------
+
+![Dashboard Preview](Healthset_Excel.png)
 
 ---
 
