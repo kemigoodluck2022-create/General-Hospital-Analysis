@@ -1,4 +1,4 @@
-![Excel Sheet](.hospital_patient_dataset.csv.xlsx)
+[Download Dataset](hospital_patient_dataset.csv.xlsx)
 
 # 🏥 General Hospital Performance Dashboard (Power BI)
 
@@ -89,7 +89,7 @@ It highlights the importance of combining **technical skills** with **clear stor
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Screenshot.png.png)
 
 ---
 
